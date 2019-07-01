@@ -1,0 +1,2 @@
+git remote prune origin // for checking local information
+git fetch --prune // for deleting local information
