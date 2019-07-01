@@ -1,8 +1,8 @@
 hellow world 1
 hello world 2
-<<<<<<< HEAD
+
 hy i am fardeen
-=======
+
 ali
 sheeraz
->>>>>>> 8170e69b3a72a8e1e19a54903dc45a36c290d269
+
